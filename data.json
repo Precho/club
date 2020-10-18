@@ -1,0 +1,39 @@
+{
+  "all":[
+     {
+        "name":"Club1",
+        "grade":"5",
+        "description":"1Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock"
+     },
+     {
+        "name":"Club2",
+        "grade":"6",
+        "description":"2Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock"
+     },
+     {
+        "name":"Club3",
+        "grade":"7",
+        "description":"3Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock"
+     },
+     {
+        "name":"Club4",
+        "grade":"8",
+        "description":"4Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock"
+     },
+     {
+        "name":"Club5",
+        "grade":"9",
+        "description":"5Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock"
+     }
+  ],
+  "comments":[
+     {
+        "id":1,
+        "body":"some comment",
+        "postId":1
+     }
+  ],
+  "profile":{
+     "name":"typicode"
+  }
+}
